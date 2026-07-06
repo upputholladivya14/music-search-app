@@ -1,4 +1,4 @@
-[Live Link](https://musicapp.bytexl.live/)
+
 ## Project Overview: Music Search Application using iTunes Search API
 
 ### Project Title
@@ -37,3 +37,5 @@ The project demonstrates the integration of a third-party API with a responsive 
 ### Objective
 
 The objective of this project is to develop a simple and interactive music search application that demonstrates the use of **REST APIs**, asynchronous JavaScript (`fetch()`), and dynamic web development techniques while providing users with an engaging music browsing experience.
+
+[Live Link](https://musicapp.bytexl.live/)
